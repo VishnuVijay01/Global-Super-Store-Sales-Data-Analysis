@@ -1,2 +1,3 @@
-# Entriproject
-Projects of DSML given from Entri
+Global Superstore Analysis
+Projects on PowerBI
+
